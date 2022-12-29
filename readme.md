@@ -1,13 +1,13 @@
 === Add First and Last Name ===
 
-Contributors: Sang Hyun Han
-Donate link:
-Tags: woocommerce, registration, first name, last name
-Requires at least: 4.0
-Tested up to: 6.11
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Contributors: Sang Hyun Han<br />
+Donate link:<br />
+Tags: woocommerce, registration, first name, last name<br />
+Requires at least: 4.0<br />
+Tested up to: 6.11<br />
+Stable tag: 1.0<br />
+License: GPLv2 or later<br />
+License URI: http://www.gnu.org/licenses/gpl-2.0.html<br />
 
 This plugin adds first name and last name fields to the WooCommerce registration form.
 
