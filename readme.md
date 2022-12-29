@@ -1,7 +1,7 @@
 === Add First and Last Name ===
 
 Contributors: Sang Hyun Han<br />
-Donate link:<br />
+Donate link: paypal.me/hanbrandon<br />
 Tags: woocommerce, registration, first name, last name<br />
 Requires at least: 4.0<br />
 Tested up to: 6.11<br />
