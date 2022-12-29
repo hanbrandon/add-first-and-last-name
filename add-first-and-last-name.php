@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: WooCommerce First and Last Name
- * Plugin URI: https://github.com/hanbrandon/woocommerce-first-and-last-name.git
+ * Plugin Name: Add First and Last Name
+ * Plugin URI: https://github.com/hanbrandon/add-first-and-last-name.git
  * Description: Adds first name and last name fields to the WooCommerce registration form.
  * Version: 1.0
  * Author: Sang Hyun Han

@@ -1,6 +1,6 @@
-=== WooCommerce First and Last Name ===
+=== Add First and Last Name ===
 Contributors: your_name
-Donate link: 
+Donate link:
 Tags: woocommerce, registration, first name, last name
 Requires at least: 4.0
 Tested up to: 5.6
@@ -12,13 +12,13 @@ This plugin adds first name and last name fields to the WooCommerce registration
 
 == Description ==
 
-The WooCommerce First and Last Name plugin adds first name and last name fields to the WooCommerce registration form, making it easy for users to provide their name when creating an account on your store.
+The Add First and Last Name plugin adds first name and last name fields to the WooCommerce registration form, making it easy for users to provide their name when creating an account on your store.
 
 To use the plugin, simply install and activate it on your WordPress site. The first name and last name fields will be automatically added to the WooCommerce registration form.
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/woocommerce-first-and-last-name` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/add-first-and-last-name` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. The first name and last name fields will be automatically added to the WooCommerce registration form.
 
@@ -37,6 +37,7 @@ $args['label'] = __( 'Your first name', 'woocommerce' );
 return $args;
 }
 ```
+
 To customize the placeholder text for the last name field, you can use the same filter and modify the `placeholder` argument:
 
 ```
@@ -48,7 +49,6 @@ $args['placeholder'] = __( 'Your last name', 'woocommerce' );
 return $args;
 }
 ```
-
 
 = Can I make the first name and last name fields required? =
 
