@@ -1,5 +1,6 @@
 === Add First and Last Name ===
-Contributors: your_name
+
+Contributors: Sang Hyun Han
 Donate link:
 Tags: woocommerce, registration, first name, last name
 Requires at least: 4.0
