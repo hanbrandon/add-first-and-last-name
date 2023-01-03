@@ -4,7 +4,7 @@ Contributors: Sang Hyun Han<br />
 Donate link: https://paypal.me/hanbrandon<br />
 Tags: woocommerce, registration, first name, last name<br />
 Requires at least: 4.0<br />
-Tested up to: 6.11<br />
+Tested up to: 6.1.1<br />
 Stable tag: 1.0<br />
 License: GPLv2 or later<br />
 License URI: http://www.gnu.org/licenses/gpl-2.0.html<br />
